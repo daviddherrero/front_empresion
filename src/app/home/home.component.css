@@ -1,0 +1,14 @@
+.cards-caption{
+	line-height: 60px;
+	text-align: center;
+}
+
+.card{
+	border-width: 2px;
+}
+
+.card-img-top{
+	object-fit: cover;
+	width: 100%;
+    height: 15vw;
+}
